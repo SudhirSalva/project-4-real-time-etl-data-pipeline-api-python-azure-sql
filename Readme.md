@@ -64,8 +64,8 @@ this project helped me understand that not only data movement in pipelines is im
 
 Screenshots :
 
-./screenshots/
+[./screenshots/](./screenshots/)
 
 Resources :
 
-./resources/
+[./resources/](./resources/)
