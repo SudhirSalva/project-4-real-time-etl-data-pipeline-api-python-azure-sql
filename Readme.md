@@ -25,7 +25,7 @@ it is a space in azure to connect and interact with the sql databases live being
 it is used to transform the data live while sending the data from the api to the sql database in azure by adding columns and categories and transforming the data
 
 ![Python Script](./screenshots/script.png)
-![Python Script](./screenshots/script.png)
+
 
 ---
 
