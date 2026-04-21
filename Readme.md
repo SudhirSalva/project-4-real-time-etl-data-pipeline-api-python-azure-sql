@@ -62,10 +62,8 @@ this project helped me understand that not only data movement in pipelines is im
 
 ## project resources
 
-Screenshots :
+### 📸 Screenshots
+[View Screenshots](./screenshots)
 
-[./screenshots/](./screenshots/)
-
-Resources :
-
-[./resources/](./resources/)
+### 📁 Resources
+[View Resources](./resources)
